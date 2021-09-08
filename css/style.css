@@ -1,0 +1,11 @@
+.card-header{
+    background-color: #72b8ae;
+    padding-bottom: 2%;
+}
+#libros{
+    width: 5%;
+    height: 5%;
+}
+.form-horizontal{
+    padding-left: 2%;
+}
